@@ -1,0 +1,10 @@
+{
+    "title": "4-Player Splitscreen Co-op",
+    "type": "gamemode",
+    "tags": [ "realism", "fun" ],
+    "ignore": [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*"
+    ]
+}
