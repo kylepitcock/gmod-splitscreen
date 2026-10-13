@@ -243,3 +243,4 @@ hook.Add( "HUDPaint", "Splitscreen_RenderSpawnMenus", function()
         end
     end
 end )
+

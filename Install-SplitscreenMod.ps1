@@ -115,3 +115,4 @@ Write-Host "1. Launch Garry's Mod." -ForegroundColor White
 Write-Host "2. On the Main Menu, click the 'SPLITSCREEN CO-OP' button in the top right." -ForegroundColor White
 Write-Host "3. Pick 2, 3, or 4 players, plug in your controllers, customize playermodels, and click 'START SPLITSCREEN MATCH'!" -ForegroundColor White
 Write-Host "4. Inside the game, each player has full controller support and can hold [BACK] to open their own Gamepad Spawn Menu!" -ForegroundColor White
+

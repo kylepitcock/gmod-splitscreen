@@ -173,3 +173,4 @@ hook.Add( "ShutDown", "Splitscreen_CleanUpBots", function()
         Splitscreen.RemoveBotForSlot( slot )
     end
 end )
+

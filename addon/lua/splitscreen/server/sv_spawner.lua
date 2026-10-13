@@ -187,3 +187,4 @@ net.Receive( "Splitscreen_Spawn", function( len, sender )
         cleanup.CC_AdminCleanup( requestPly, "gmod_cleanup", {} )
     end
 end )
+

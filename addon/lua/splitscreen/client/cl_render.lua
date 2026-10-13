@@ -224,3 +224,4 @@ hook.Add( "RenderScene", "Splitscreen_MasterRenderer", function( origin, angles,
     -- Returning true overrides standard single-camera rendering
     return true
 end )
+

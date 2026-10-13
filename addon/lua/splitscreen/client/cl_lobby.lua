@@ -260,3 +260,4 @@ function Splitscreen.OpenManagerMenu()
 end
 
 concommand.Add( "splitscreen_menu", Splitscreen.OpenManagerMenu )
+

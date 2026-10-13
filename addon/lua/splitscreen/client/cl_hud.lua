@@ -230,3 +230,4 @@ hook.Add( "HUDPaint", "Splitscreen_MasterHUDPaint", function()
         end
     end
 end )
+

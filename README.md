@@ -127,3 +127,4 @@ The script automatically:
    * Customize each player's playermodel.
 4. Click **"▶ START SPLITSCREEN MATCH"**.
 5. All 4 players spawn in immediately with full sandbox loadouts, independent viewports, custom HUDs, and full controller functionality!
+

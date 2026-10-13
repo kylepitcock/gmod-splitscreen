@@ -308,3 +308,4 @@ function Splitscreen.SendSlotInput( slot )
     -- Reset one-shot weapon selection
     state.selected_weapon = nil
 end
+

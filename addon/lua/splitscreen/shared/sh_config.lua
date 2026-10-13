@@ -229,3 +229,4 @@ function Splitscreen.LoadConfig()
 
     return tbl
 end
+

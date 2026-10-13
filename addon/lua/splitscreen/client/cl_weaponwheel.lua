@@ -119,3 +119,4 @@ hook.Add( "HUDPaint", "Splitscreen_RenderWeaponWheels", function()
         end
     end
 end )
+

@@ -18,3 +18,4 @@ AddCSLuaFile( "splitscreen/client/cl_lobby.lua" )
 include( "splitscreen/shared/sh_config.lua" )
 
 print( "[Splitscreen Co-op] Loaded shared configuration v" .. Splitscreen.Version )
+

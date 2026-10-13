@@ -322,3 +322,4 @@ hook.Add( "DrawOverlay", "Splitscreen_MenuButtonDrawer", function()
 end )
 
 print( "[Splitscreen Co-op] Main Menu Integration loaded successfully." )
+

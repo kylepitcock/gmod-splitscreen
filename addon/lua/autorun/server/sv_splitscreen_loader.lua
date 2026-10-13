@@ -9,3 +9,4 @@ include( "splitscreen/server/sv_commands.lua" )
 include( "splitscreen/server/sv_spawner.lua" )
 
 print( "[Splitscreen Co-op] Server modules initialized successfully." )
+

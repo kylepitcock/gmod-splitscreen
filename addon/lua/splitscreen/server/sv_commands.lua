@@ -97,3 +97,4 @@ hook.Add( "StartCommand", "Splitscreen_BotCommandProcessing", function( ply, ucm
         ply:Flashlight( data.flashlight )
     end
 end )
+
